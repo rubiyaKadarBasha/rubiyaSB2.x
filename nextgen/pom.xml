@@ -36,7 +36,7 @@
 		<maven.version>3.0.0</maven.version>
 		<lombok.version>1.18.10</lombok.version>
 		<cucumber.version>1.2.5</cucumber.version>
-		<hazelcast.version>3.12</hazelcast.version>
+		<hazelcast.version>5.1</hazelcast.version>
 		<tomcat.version>9.0.27</tomcat.version>
 		<project.testresult.directory>${project.build.directory}/test-results</project.testresult.directory>
 
